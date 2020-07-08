@@ -16,16 +16,27 @@ padding-right: 10px;
 padding-bottom: 10px;
 padding-left: 10px;
 }
-p
-{
-background-color: LightGrey;
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
-.intro {
-background-color: Beige;
-}
+
+
 #firstname
 {
-background-color:yellow;
+background-color:LightGrey;
 }
 h1 {text-align: center;}
+
+div.a {
+  1. Masala Vadai: center;
+}
+div.a {
+  2. Tamarind Rice: center;
+}
+div.a {
+  3. Curd Rice: center;
+}
 </style>
